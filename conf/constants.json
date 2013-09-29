@@ -1,0 +1,9 @@
+{
+  "application": {
+    "version": "<% global.app.version %>",
+    "files": {
+      "style": "app",
+      "script": "app"
+    }
+  }
+}
